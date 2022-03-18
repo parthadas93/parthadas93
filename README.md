@@ -31,9 +31,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/partha-pratim-das-488a9518b/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mobile.twitter.com/AnkitMi04386073" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
-<a href = "mailto:ankitmi468@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "https://twitter.com/ParthaD09753010?t=cXmu_bu8WRKIs4cGBrDS8Q&s=09" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://medium.com/@ankitmi468" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a> -->
+<a href = "mailto: dasparthapratim02@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
     
 </p>
 
