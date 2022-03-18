@@ -15,7 +15,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
+- 🧑🏻‍💻 Open to Software Engineering roles |  
 - ✌🏻 I have graduated from Regent Education & Research Foundation (Depertment of Civil Engineering).
 - 🌱 I’m learning MERN-Stack in Masai School .
 - 👯 I’m looking to indulge myself more in Technologies.
